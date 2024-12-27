@@ -5,7 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Adarsh&color=brightgreen)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Hi%2C+I'm+Adarsh!;Welcome+to+My+GitHub+Profile;MERN+Stack+Developer+%F0%9F%92%BB; Let’s+Build+Something+Amazing!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=4000&color=36BCF7&center=true&vCenter=true&lines=Hi%2C+I'm+Your+Adarsh!;Welcome+to+My+GitHub+Profile;MERN+Stack+Developer+%F0%9F%92%BB;let’s+Build+Something+Amazing!">
 </div>
 
 ---
