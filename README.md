@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Adarsh]!
+# 👋 Hi, I'm [Adarsh]
 
 🎯 MERN Stack Developer | 🚀 Passionate Coder | 🌌 Astronomy Enthusiast  
 
