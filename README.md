@@ -67,8 +67,15 @@ Hello! I'm a passionate **MERN Stack Developer** who loves creating dynamic, use
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" style="width:48%; margin: 1%; border-radius: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" alt="GitHub Streak" style="width:48%; margin: 1%; border-radius: 10px;">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" alt="GitHub Profile Details" style="width:98%; margin: 1%; border-radius: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" style="width:98%; margin: 1%; border-radius: 10px;">
+</div>
 
 ---
 
