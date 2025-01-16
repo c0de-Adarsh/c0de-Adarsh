@@ -68,8 +68,8 @@ Hello! I'm a passionate **MERN Stack Developer** who loves creating dynamic, use
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" style="width:48%; margin: 1%; border-radius: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical" alt="GitHub Streak" style="width:48%; margin: 1%; border-radius: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=adarsh &show_icons=true&theme=radical" alt="GitHub Stats" style="width:48%; margin: 1%; border-radius: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adarsh &theme=radical" alt="GitHub Streak" style="width:48%; margin: 1%; border-radius: 10px;">
 </div>
 
 <div align="center">
