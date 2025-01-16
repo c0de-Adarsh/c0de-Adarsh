@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! \u2728
+# Welcome to My GitHub Profile! 
 
 ![Header Animation](https://your-animated-header-image-url.com)
 
