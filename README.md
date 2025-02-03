@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 
+#Hi 👋! My name is Adarsh, and I'm a MERN Developer from 🇮🇳
 
 ![Header Animation](https://your-animated-header-image-url.com)
 
