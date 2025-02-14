@@ -65,8 +65,4 @@
 ## 🔥 **Fun Fact!**  
 💭 **"Debugging is like being a detective in a crime movie where you are also the murderer."**  
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
-</p>
-
 ---
