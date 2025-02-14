@@ -1,83 +1,49 @@
-#Hi 👋! My name is Adarsh, and I'm a MERN Developer from 🇮🇳
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFA500&center=true&vCenter=true&width=500&lines=Hey!+I'm+Adarsh!;A+MERN+Stack+Developer;Building+Scalable+Web+Apps;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</h1>
 
-![Header Animation](https://your-animated-header-image-url.com)
-
----
-
-## 👩‍💻 About Me
-
-Hello! I'm a passionate **MERN Stack Developer** who loves creating dynamic, user-friendly web applications. I strive to write clean, scalable, and efficient code, bringing ideas to life through technology. 🚀
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300px">
+</p>
 
 ---
 
-## 💻 Tech Stack
-
-### Frontend:
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend:
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database:
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms:
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-- ![Mongoose](https://img.shields.io/badge/Mongoose-AA2929?style=for-the-badge&logo=mongoose&logoColor=white)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### 🚀 About Me  
+- 👨‍💻 I am a **MERN Stack Developer**
+- 🔥 Passionate about **Full-Stack Development & Open Source**
+- 🛠️ Love to work with **JavaScript, TypeScript, React, Next.js & Node.js**
+- 🎨 UI/UX Enthusiast - **Tailwind CSS, ShadCN, Bootstrap**
+- 📚 Always Learning New Technologies
+- 💡 Believe in **“Code Less, Build More”**
 
 ---
 
-## 🌱 Currently Learning
-- Advanced **Next.js** Features
-- **TypeScript** for Strongly Typed Applications
-- State Management with **Redux**
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,mongodb,express,redux,tailwind,bootstrap,git,github,figma" />
+</p>
 
 ---
 
-## 🌟 Highlights
-
-### 🚀 Featured Projects:
-- **[Food Website](https://github.com/yourusername/food-website):** A responsive food ordering site built with React.js and React Router.
-- **[Weather App](https://github.com/yourusername/weather-app):** A weather forecasting app leveraging OpenWeatherMap API.
-- **[Survey App](https://github.com/yourusername/survey-app):** A Firebase-integrated survey platform.
-
-### 🏆 Achievements:
-- Completed a **MERN Stack Developer Course**.
-- Built multiple projects, including a **Note App** and a **Memory Card Game**.
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-kumar-jaiswar-11767a270/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarsh-web-portfolio.netlify.app/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adarsh &show_icons=true&theme=radical" alt="GitHub Stats" style="width:48%; margin: 1%; border-radius: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adarsh &theme=radical" alt="GitHub Streak" style="width:48%; margin: 1%; border-radius: 10px;">
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" alt="GitHub Profile Details" style="width:98%; margin: 1%; border-radius: 10px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" style="width:98%; margin: 1%; border-radius: 10px;">
-</div>
+### 📫 Connect with Me  
+<p align="center">
+  <a href="https://github.com/Adarsh"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/adarsh"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
-### ✨ Thank you for visiting my GitHub profile! ✨
-**Let's build something amazing together!**
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote">
+</p>
+
+---
