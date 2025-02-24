@@ -52,7 +52,7 @@
 
 ## 📫 **Connect with Me**  
 <p align="center">
-  <a href="https://github.com/Adarsh">
+  <a href="https://github.com/c0de-Adarsh">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/adarsh-kumar-jaiswar-11767a270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
