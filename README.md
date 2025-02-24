@@ -55,7 +55,7 @@
   <a href="https://github.com/Adarsh">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/adarsh">
+  <a href="https://www.linkedin.com/in/adarsh-kumar-jaiswar-11767a270?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
